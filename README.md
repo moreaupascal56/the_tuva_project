@@ -5,18 +5,18 @@
 The Tuva Project is a collection of data marts and terminology sets that transform healthcare data for analytics.
 
 **Data Marts:**
-- [Acute Inpatient](../the_tuva_project/models/acute_inpatient)
-- [CCSR](../the_tuva_project/models/ccsr)
-- [Chronic Conditions](../the_tuva_project/models/chronic_conditions)
-- [CMS-HCCs](../the_tuva_project/models/cms_hcc)
-- [Core](../the_tuva_project/models/core)
-- [Data Profiling](../the_tuva_project/models/data_profiling)
-- [Member Months](../the_tuva_project/models/member_months)
-- [PMPM](../the_tuva_project/models/pmpm)
-- [Readmissions](../the_tuva_project/models/readmissions)
-- [Service Category](../the_tuva_project/models/service_category)
+- [Acute Inpatient](models/acute_inpatient)
+- [CCSR](models/ccsr)
+- [Chronic Conditions](models/chronic_conditions)
+- [CMS-HCCs](models/cms_hcc)
+- [Core](models/core)
+- [Data Profiling](models/data_profiling)
+- [Member Months](models/member_months)
+- [PMPM](models/pmpm)
+- [Readmissions](models/readmissions)
+- [Service Category](models/service_category)
 
-You can find all the terminology sets **[here](../the_tuva_project/seeds/terminology)**.
+You can find all the terminology sets **[here](seeds/terminology)**.
 <br/><br/>
 
 ## 🔗  Docs
