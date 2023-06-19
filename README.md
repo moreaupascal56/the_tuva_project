@@ -5,7 +5,7 @@
 The Tuva Project is a collection of data marts and terminology sets that transform healthcare data for analytics.
 
 **Data Marts:**
-- [Acute Inpatient](../the_tuva_project/models/acute_inpatient/)
+- [Acute Inpatient](models/acute_inpatient)
 - [CCSR](../the_tuva_project/models/ccsr)
 - [Chronic Conditions](../the_tuva_project/models/chronic_conditions)
 - [CMS-HCCs](../the_tuva_project/models/cms_hcc)
